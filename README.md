@@ -18,8 +18,6 @@
 
 ## 📈 GitHub Stats
 
-## 📈 GitHub Stats
-
 ![Dinesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dineshk125&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dineshk125&layout=compact&theme=radical)
 ---

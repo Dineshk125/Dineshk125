@@ -1,4 +1,4 @@
-## 👋 Hey there! I'm Dinesh — a passionate fresher developer 🚀
+## 👋 Hey there! I'm Dinesh — a passionate Full Stack developer 🚀
 
 - 🔭 I’m currently working on a full-stack app using **React**, with JWT authentication, dark mode, and syntax highlighting.
 - 🌱 I’m currently learning **Node.js, Express.js, SQL, and MongoDB** to strengthen my backend fundamentals.
@@ -18,9 +18,10 @@
 
 ## 📈 GitHub Stats
 
-![Dinesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=radical)
+## 📈 GitHub Stats
 
+![Dinesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dineshk125&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dineshk125&layout=compact&theme=radical)
 ---
 
 ## ✨ Projects Worth a Peek

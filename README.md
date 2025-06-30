@@ -1,17 +1,31 @@
-## Hi there 👋
+## 👋 Hey there! I'm Dinesh — a passionate fresher developer 🚀
 
-<!--
-**Dineshk125/Dineshk125** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on a full-stack app using **React**, with JWT authentication, dark mode, and syntax highlighting.
+- 🌱 I’m currently learning **Node.js, Express.js, SQL, and MongoDB** to strengthen my backend fundamentals.
+- 👯 I’m looking to collaborate on **frontend or full-stack projects**, especially those involving React and UI innovation.
+- 💬 Ask me about **Python algorithms**, **React hooks**, **matrix transformations**, or **API testing** with Postman & Newman.
+- 📫 How to reach me: [dnsk.dtr@gmail.com] | [LinkedIn](https://www.linkedin.com/in/dinesh-kumawat-2b113b24b/)
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I enjoy solving tricky problems that need creative in-place solutions—especially matrix ones!
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+## 🛠️ Tech Stack & Tools
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,python,react,nodejs,express,git,github,mongodb,postgres,sql)](https://skillicons.dev)
+
+---
+
+## 📈 GitHub Stats
+
+![Dinesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=radical)
+
+---
+
+## ✨ Projects Worth a Peek
+
+- 🍕 **Food Order Web App** — A responsive, user-friendly application where customers can browse menus, add items to cart, and place orders. Built with React, Express.js, and MongoDB.
+- 🧑‍💻 **Personal Portfolio** — A sleek portfolio showcasing my skills, projects, and contact details. Created with React and enhanced with animations and a dark/light theme toggle.
+  
+---

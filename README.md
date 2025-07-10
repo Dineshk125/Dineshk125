@@ -35,7 +35,12 @@
 
 <!-- Snake -->
 <!-- Snake Animation -->
+
 ## 🐍 Contribution Snake
 
-![GitHub Snake](https://github.com/Dineshk125/Dineshk125/blob/output/github-snake.svg)
+![Snake animation](https://github.com/Dineshk125/Dineshk125/blob/output/github-snake-dark.svg)
+
+![Ocean Snake](https://github.com/Dineshk125/Dineshk125/blob/output/ocean.gif)
+
 ---
+

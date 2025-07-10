@@ -37,7 +37,7 @@
 <!-- Snake Animation -->
 <div align="center">
 
-  ![snake gif](https://github.com/Dineshk125/Dineshk125/blob/output/github-snake-dark.svg)
+<img src="https://github.com/Dineshk125/Dineshk125/blob/output/github-snake-dark.svg" alt="GitHub Snake"/>
 </div>
 
 

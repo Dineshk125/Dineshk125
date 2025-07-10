@@ -35,17 +35,7 @@
 
 <!-- Snake -->
 <!-- Snake Animation -->
-<div align="center">
+## 🐍 Contribution Snake
 
-<img src="https://github.com/Dineshk125/Dineshk125/blob/output/github-snake-dark.svg" alt="GitHub Snake"/>
-</div>
-
-
-
-<!-- Counter -->
-<!-- Visit Counter -->
-<div align="center">
-
-  [![](https://visitcount.itsvg.in/api?id=Dineshk125&icon=10&color=6)](https://visitcount.itsvg.in)
-</div>
+![GitHub Snake](https://github.com/Dineshk125/Dineshk125/blob/output/github-snake.svg)
 ---

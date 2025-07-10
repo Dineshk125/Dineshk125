@@ -26,5 +26,26 @@
 
 - 🍕 **Food Order Web App** — A responsive, user-friendly application where customers can browse menus, add items to cart, and place orders. Built with React, Express.js, and MongoDB.
 - 🧑‍💻 **Personal Portfolio** — A sleek portfolio showcasing my skills, projects, and contact details. Created with React and enhanced with animations and a dark/light theme toggle.
-  
+
+
+## 🌐 Connect with Me 🍬
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100025561232716&ref=_ig_profile_ac) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/i_am_d.i.n.e.s.h._/?hl=en) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dinesh-kumawat-2b113b24b/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@LordBhakti125) 
+
+</div>
+
+<!-- Snake -->
+<!-- Snake Animation -->
+<div align="center">
+
+  ![snake gif](https://github.com/Dineshk125/Dineshk125/blob/output/github-snake-dark.svg)
+</div>
+
+
+
+<!-- Counter -->
+<!-- Visit Counter -->
+<div align="center">
+
+  [![](https://visitcount.itsvg.in/api?id=Dineshk125&icon=10&color=6)](https://visitcount.itsvg.in)
+</div>
 ---

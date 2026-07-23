@@ -1,7 +1,5 @@
 ## 👋 Hey there! I'm Dinesh — a passionate Full Stack developer 🚀
 
-- 🔭 I’m currently working on a full-stack app using **React**, with JWT authentication, dark mode, and syntax highlighting.
-- 🌱 I’m currently learning **Node.js, Express.js, SQL, and MongoDB** to strengthen my backend fundamentals.
 - 👯 I’m looking to collaborate on **frontend or full-stack projects**, especially those involving React and UI innovation.
 - 💬 Ask me about **Python algorithms**, **React hooks**, **matrix transformations**, or **API testing** with Postman & Newman.
 - 📫 How to reach me: [dnsk.dtr@gmail.com] | [LinkedIn](https://www.linkedin.com/in/dinesh-kumawat-2b113b24b/)
